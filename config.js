@@ -8,29 +8,29 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Anubhav Srivastava',
-  heading: 'Web Developer',
+  authorName: 'Chervin Tanilon',
+  heading: 'Software Developer',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/chervintani',
     },
     {
-      icon: 'fa-twitter',
+      icon: 'fa-stack-overflow',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://stackoverflow.com/users/10747761/chervin-tanilon',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://facebook.com/chervint',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:tanilon.chervin@gmail.com',
     },
   ],
 };
